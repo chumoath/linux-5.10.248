@@ -78,7 +78,8 @@ fi
 
 gen_config
 build_kernel_image
-build_kernel_image
+build_modules
+install_modules
 install_headers
 gen_vmlinux_gdb
 gen_compile_commands
