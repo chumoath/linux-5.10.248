@@ -1,5 +1,5 @@
 {
     "clangd.arguments": [
-        "--compile-commands-dir=/root/linux/linux-5.10.248/build.arm64"
+        "--compile-commands-dir=/root/linux-5.10.248/build.arm64"
     ]
 }
